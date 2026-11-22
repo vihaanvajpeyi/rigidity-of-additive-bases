@@ -1,4 +1,4 @@
-# Rigidity of additive bases with at most seven representations, and an improvement of Sandor's inequality -- Code and certificates
+# Rigidity of additive bases with at most seven representations, and an improvement of Sandor's inequality - Code and certificates
 
 
 Code and data for the paper
